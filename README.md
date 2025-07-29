@@ -82,7 +82,11 @@ ETL automation with Python
 Deployment to Azure SQL Database
 
 
+
+
 🧑‍💻 Author
 Olzhas
+
 GitHub Profile: @olzhaszz
+
 Feel free to contribute or raise issues!
