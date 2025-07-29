@@ -4,8 +4,11 @@ This project explores and analyzes the Netflix Titles Dataset using SQL Server. 
 
 🔍 Features & Questions Answered
 Total content per country
+
 TV shows with more than 5 seasons
+
 Documentaries and movies by specific directors
+
 Content release trends over the last 5 and 10 years
 Top genres and actor participation
 Classification of content by keywords like "kill" and "violence"
